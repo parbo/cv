@@ -61,12 +61,15 @@ _Software engineer based in Gothenburg, Sweden_ <br>
 <br><br>
 
 ## Technologies
-### Programming languages
-**C++**: Very proficient
-**Rust, Python, C, SQL**: Proficient
-**bash, Java, ObjC**: Somewhat proficient
-### Other
-**CMake, Bazel, Docker, TeamCity**
+ - **Programming languages**
+   - **C++**: Very proficient
+   - **Rust, Python, C, SQL**: Proficient
+   - **bash, Java, ObjC**: Somewhat proficient
+  - **Other**
+    - CMake
+    - Bazel
+    - Docker
+    - TeamCity
 
 ## Education
 **MSc in Applied physics & Electrical Engineering** @ [Linköping University](https://liu.se/) _(1994 - 2004)_ <br>
