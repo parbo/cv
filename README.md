@@ -34,8 +34,8 @@ _Software engineer based in Gothenburg, Sweden_ <br>
 
 **Software Consultant** @ [Combitech Systems AB](https://www.combitech.se/) | Caran EIS AB _(2004 - 2008)_ <br>
   - Consultant in embedded systems, mainly automotive infotainment systems.
-  - ** Assignments **
-    - ** Software Engineer** @ [Volvo Cars](https://www.volvocars.com) _(2004 - 2008) <br>
+  - **Assignments**
+    - **Software Engineer** @ [Volvo Cars](https://www.volvocars.com) _(2004 - 2008) <br>
       - Developed embedded software in C/C++.
       - Co-responsible for software architecture.
       - Software integrator, release manager and main technical interface between the customer and the developers and testers.
