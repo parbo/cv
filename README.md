@@ -74,10 +74,10 @@ _Software engineer based in Gothenburg, Sweden_ <br>
 ## Side projects
   - **Rust**
     - [Advent of Code](https://adventofcode.com/2021/about)
-      - 2022 [https://github.com/parbo/advent-of-code-2022](https://github.com/parbo/advent-of-code-2022) 
       - 2021 [https://github.com/parbo/advent-of-code-2021](https://github.com/parbo/advent-of-code-2021) 
       - 2020 [https://github.com/parbo/advent-of-code-2020](https://github.com/parbo/advent-of-code-2020) 
       - 2019 [https://github.com/parbo/advent-of-code-2019](https://github.com/parbo/advent-of-code-2019) 
+      - 2018 [https://github.com/parbo/advent-of-code-2022](https://github.com/parbo/advent-of-code-2018) 
     - [ICFP Contest](https://www.icfpconference.org/contest.html)
       - 2021 [https://github.com/parbo/icfp2021](https://github.com/parbo/icfp2021)
       - 2001 [https://github.com/parbo/rust-raytracer](https://github.com/parbo/rust-raytracer)
