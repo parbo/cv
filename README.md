@@ -71,6 +71,20 @@ _Software engineer based in Gothenburg, Sweden_ <br>
     - Docker
     - TeamCity
 
+## Side projects
+  - **Rust**
+    - [Advent of Code](https://adventofcode.com/2021/about)
+      - 2022 [https://github.com/parbo/advent-of-code-2022](https://github.com/parbo/advent-of-code-2022) 
+      - 2021 [https://github.com/parbo/advent-of-code-2021](https://github.com/parbo/advent-of-code-2021) 
+      - 2020 [https://github.com/parbo/advent-of-code-2020](https://github.com/parbo/advent-of-code-2020) 
+      - 2019 [https://github.com/parbo/advent-of-code-2019](https://github.com/parbo/advent-of-code-2019) 
+    - [ICFP Contest]
+      - 2021 [https://github.com/parbo/icfp2021](https://github.com/parbo/icfp2021)
+      - 2001 [https://github.com/parbo/rust-raytracer](https://github.com/parbo/rust-raytracer)
+    - [Utilities]
+      - SoundFont converter [https://github.com/parbo/soundfont-deluge](https://github.com/parbo/soundfont-deluge)
+      - PCM audio extractor [https://github.com/parbo/pcm-extract](https://github.com/parbo/pcm-extract)
+
 ## Education
 **MSc in Applied physics & Electrical Engineering** @ [Linköping University](https://liu.se/) _(1994 - 2004)_ <br>
   - Focus on signal- and image processing
