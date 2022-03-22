@@ -78,10 +78,10 @@ _Software engineer based in Gothenburg, Sweden_ <br>
       - 2021 [https://github.com/parbo/advent-of-code-2021](https://github.com/parbo/advent-of-code-2021) 
       - 2020 [https://github.com/parbo/advent-of-code-2020](https://github.com/parbo/advent-of-code-2020) 
       - 2019 [https://github.com/parbo/advent-of-code-2019](https://github.com/parbo/advent-of-code-2019) 
-    - [ICFP Contest]
+    - [ICFP Contest](https://www.icfpconference.org/contest.html)
       - 2021 [https://github.com/parbo/icfp2021](https://github.com/parbo/icfp2021)
       - 2001 [https://github.com/parbo/rust-raytracer](https://github.com/parbo/rust-raytracer)
-    - [Utilities]
+    - Utilities
       - SoundFont converter [https://github.com/parbo/soundfont-deluge](https://github.com/parbo/soundfont-deluge)
       - PCM audio extractor [https://github.com/parbo/pcm-extract](https://github.com/parbo/pcm-extract)
 
