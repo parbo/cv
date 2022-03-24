@@ -64,7 +64,7 @@ _Software engineer based in Gothenburg, Sweden_ <br>
  - **Programming languages**
    - **C++**: Very proficient
    - **Rust, Python, C, SQL**: Proficient
-   - **bash, Java, ObjC**: Somewhat proficient
+   - **bash, Java, ObjC, JavaScript, TypeScript**: Somewhat proficient
   - **Other**
     - CMake
     - Bazel
